@@ -8,7 +8,7 @@
 
 <p>
  <a href="https://github.com/bojun1995" target="_self">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bojun1995&hide_border=true&background=2d323c&stroke=41b883&fire=41b883&ring=41b883&currStreakNum=e1e1e1&sideNums=e1e1e1&currStreakLabel=e1e1e1&sideLabels=e1e1e1&dates=e1e1e1&date_format=[Y.]n.j&locale=cn"/>
+   <img src="https://bojun1995-streak.vercel.app/?user=bojun1995&hide_border=true&background=2d323c&stroke=41b883&fire=41b883&ring=41b883&currStreakNum=e1e1e1&sideNums=e1e1e1&currStreakLabel=e1e1e1&sideLabels=e1e1e1&dates=e1e1e1&date_format=[Y.]n.j&locale=cn"/>
  </a>
 </p>
 
