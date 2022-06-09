@@ -1,10 +1,11 @@
 ### <img src="https://github.com/bojun1995/bojun1995/blob/main/file/img/Hi.gif" width="24px" height="24px"> Hi, I'm bojun1995.
 
-<a href="https://github.com/bojun1995" target="_self">
- <p>
+<p>
+ <a href="https://github.com/bojun1995" target="_self">
    <img src="https://bojun1995-readme.vercel.app/api?username=bojun1995&show_icons=true&count_private=true&border_radius=5&title_color=41b883&bg_color=2d323c&show_owner=true&text_color=e1e1e1&icon_color=41b883&hide_border=true&locale=cn" />
- </p>
-</a>
+ </a>
+</p>
+
 
 <a href="https://github.com/bojun1995" target="_self">
  <p>
