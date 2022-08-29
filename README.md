@@ -14,7 +14,6 @@
  </a>
 </p>
 
-👇其实我还会Java（不包含Web），在这里看不见
 <p>
  <a href="https://github.com/bojun1995" target="_self">
    <img src="https://bojun1995-readme.vercel.app/api/top-langs/?username=bojun1995&show_icons=true&count_private=true&border_radius=5&layout=compact&title_color=41b883&bg_color=2d323c&show_owner=true&text_color=e1e1e1&icon_color=41b883&hide_border=true&locale=cn" />
