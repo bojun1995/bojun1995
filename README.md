@@ -1,6 +1,6 @@
 ### <img src="https://github.com/bojun1995/bojun1995/blob/main/file/img/Hi.gif" width="24px" height="24px"> Hi, I'm bojun1995.
 
-📪 bojun1995@foxmail.com
+📪 rdp3@foxmail.com
 
 <!--
 <p>
